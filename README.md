@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ DR. Amit Kumar Khaskalam
+- 👋 Hi, I’m @ Dr. Amit Kumar Khaskalam
 - 👀 I’m interested in Data Mining, Machine learning, Python,Material science
 - 🌱 I’m currently learning  Machine learning
 - 💞️ I’m looking to collaborate on ...
